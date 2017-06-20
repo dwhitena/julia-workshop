@@ -1,6 +1,6 @@
 # Workshop - Integrating Julia in Real-World, Distributed Pipelines
 
-![alt tag](pipeline.jpg)
+![alt tag](pipeline.png)
 
 This workshop focuses on building a production scale machine learning pipeline with [Julia](), [Docker](), [Kubernetes](), and [Pachyderm](http://pachyderm.io/).  In particular, this pipeline trains and utilizes a model that predicts the species of iris flowers, based on measurements of those flowers.
 
@@ -533,7 +533,7 @@ We could get this model to examine it, rerun it, revert to a different model, et
 
 ## Resources
 
-Docker:u
+Docker
 
 - [Install Docker](https://docs.docker.com/engine/installation/) locally.
 - Start with the official [Julia base image](https://hub.docker.com/_/julia/).
