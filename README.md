@@ -157,7 +157,7 @@ As mentioned, we have already uploaded this image to Docker Hub for use in this 
 
 ## 2. Prepare a Julia program and Docker image for inference
 
-Similar to the process in section (1), we have created a Julia program, [infer.jl]i(infer/infer.jl), and a corresponding Docker image to be used for inference in our ML pipeline. This Docker image is uploaded to Docker Hub as [dwhitena/julia-infer](https://hub.docker.com/r/dwhitena/julia-infer/).
+Similar to the process in section (1), we have created a Julia program, [infer.jl](infer/infer.jl), and a corresponding Docker image to be used for inference in our ML pipeline. This Docker image is uploaded to Docker Hub as [dwhitena/julia-infer](https://hub.docker.com/r/dwhitena/julia-infer/).
 
 `infer.jl` does a few things:
 
